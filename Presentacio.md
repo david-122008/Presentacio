@@ -1,6 +1,6 @@
 # Presentacio
 
-
+Hola, em dic David, visc a Arenys de Mar i estic cursant una FP d'informàtica a Mataró.
 
 # Projectes
 
@@ -21,3 +21,7 @@
 [web_corporativa](https://github.com/david-122008/web-projecte7-david-122008)
 
 [web_individual](https://github.com/david-122008/T02-PI-web)
+
+# Kanban
+
+[P4](https://planner.cloud.microsoft/webui/plan/HsA908wUzUmKD6NbY9aztpYACIMR/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
